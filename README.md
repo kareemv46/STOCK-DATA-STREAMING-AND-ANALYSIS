@@ -29,4 +29,5 @@
 * EV stock use case-Kareem's team
 * Deployment-Trupti’s Team
 
-
+## License
+This project uses the following license: [MIT License](LICENSE)
