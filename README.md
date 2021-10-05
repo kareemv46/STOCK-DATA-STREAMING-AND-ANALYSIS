@@ -1,6 +1,6 @@
 # STOCK DATA STREAMING AND ANALYSIS
 
-## PROJECT DESCRIPTION
+## DESCRIPTION
 * This project is basically for collecting  enormous data and analyzing it. 
 * It includes live streaming of data from FOREX trading API and Electric Vehicle stocks API. 
 * The data is fetched and processed using Kafka Streaming and Spark streaming.
